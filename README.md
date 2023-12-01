@@ -1,5 +1,5 @@
 # alexandre-petit.github.io
 
-Portfolio data science
+My data science portfolio
 
-The site template is hyperspace from html5up
+The site was made using the hyperspace template from html5up. A few changes were made to the template (Color, structure, etc.)
